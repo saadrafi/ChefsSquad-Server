@@ -1,0 +1,56 @@
+[
+  {
+    "chef_id": "1",
+    "chef_picture": "https://media.istockphoto.com/id/877309726/photo/male-chef-garnishing-food-in-kitchen.jpg?s=612x612&w=0&k=20&c=U2wynKNuBJSd86sqyY3ivCT3EsqmllPe4k1cDwOgVLc=",
+    "chef_name": "Bob Johnson",
+    "years_of_experience": 5,
+    "num_recipes": 20,
+    "likes": 500,
+    "bio": "Bob Johnson is a classically trained chef who specializes in French cuisine. He studied at the Cordon Bleu in Paris and has worked in several Michelin-starred restaurants throughout Europe. In his free time, he enjoys experimenting with new recipes and hosting dinner parties for friends and family."
+  },
+  {
+    "chef_id": "2",
+    "chef_picture": "https://media.istockphoto.com/id/1298088270/photo/young-beautiful-smiling-woman-chef-with-arms-crossed-at-kitchen.jpg?s=612x612&w=0&k=20&c=ZtYaFLtiRkuA6mQ8HK05xjZNvpb4ev2BS9g2Uc6mdww=",
+    "chef_name": "Samantha Lee",
+    "years_of_experience": 8,
+    "num_recipes": 40,
+    "likes": 1200,
+    "bio": "Samantha Lee is a chef and food blogger who is known for her creative and visually stunning dishes. She has been featured in several national magazines and has won multiple awards for her innovative approach to cooking. In her spare time, she enjoys traveling and exploring new culinary traditions."
+  },
+  {
+    "chef_id": "3",
+    "chef_picture": "https://media.istockphoto.com/id/1192003808/photo/kitchen-chef.jpg?s=612x612&w=0&k=20&c=IhO8ODdtulOun0h_8HroDPL6NZPAnm6Wi12QHkf3ttA=",
+    "chef_name": "Juan Perez",
+    "years_of_experience": 12,
+    "num_recipes": 75,
+    "likes": 3000,
+    "bio": "Juan Perez is a chef and restaurateur who has owned and operated several successful restaurants throughout Latin America. He is known for his bold and flavorful dishes that combine traditional ingredients and modern techniques. In his free time, he enjoys playing soccer and spending time with his family."
+  },
+  {
+    "chef_id": "4",
+    "chef_picture": "https://media.istockphoto.com/id/486860378/photo/my-chefs-know-how-to-cook.jpg?s=612x612&w=0&k=20&c=F7e0Nr5Xr56VJS1NFffBFu_zkcW2ifsw6EHxvKPGh38=",
+    "chef_name": "Emily Chen",
+    "years_of_experience": 3,
+    "num_recipes": 15,
+    "likes": 250,
+    "bio": "Emily Chen is a pastry chef who specializes in creating delicious and beautiful desserts. She has worked in several high-end restaurants and bakeries throughout the United States and Europe. In her free time, she enjoys hiking and spending time outdoors."
+  },
+  {
+    "chef_id": "5",
+    "chef_picture": "https://media.istockphoto.com/id/1142243814/photo/happy-chef-working-in-a-kitchen-at-a-restaurant.jpg?s=612x612&w=0&k=20&c=S2x-o07A-_g3rZKVQMd75UmqqKIWCZvuj7RdgUwQ0DA=",
+    "chef_name": "Ahmed Khan",
+    "years_of_experience": 7,
+    "num_recipes": 30,
+    "likes": 800,
+    "bio": "Ahmed Khan is a chef and cookbook author who specializes in Indian and Pakistani cuisine. He is known for his easy-to-follow recipes that are packed with flavor and spice. In his free time, he enjoys reading and listening to music."
+  },
+  {
+    "chef_id": "6",
+    "chef_picture": "https://media.istockphoto.com/id/1367987410/photo/smiling-female-chef-in-toque-with-crossed-arms.jpg?s=612x612&w=0&k=20&c=7VNReKjQf4f3t6KiQ0vzNrlcoZOg53o-sCZNRyHdh7c=",
+    "chef_name": "Maria Garcia",
+    "years_of_experience": 9,
+    "num_recipes": 50,
+    "likes": 1500,
+    "bio": "Maria Garcia is a chef and food educator who is passionate about teaching people how to cook healthy and delicious meals. She has written several cookbooks and has appeared on several cooking shows. In her free time, she enjoys practicing yoga and meditation."
+  }
+]
