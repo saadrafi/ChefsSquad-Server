@@ -16,6 +16,12 @@ app.get("/trending", (req, res) => {
   res.json(treanding);
 });
 
+app.get("/chefrecipe/:chefId", (req, res) => {
+  const chefId = req.params.chefId;
+  const chefRecipes = recipes.filter((recipe) => recipe.chef_id == chefId);
+  res.json(chefRecipes);
+})
+
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`);
 });
