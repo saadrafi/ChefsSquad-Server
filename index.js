@@ -11,6 +11,12 @@ app.get("/chefs", (req, res) => {
   res.json(chefs);
 });
 
+app.get("/chefs/:chefId",(req,res)=>{
+  const chefId = req.params.chefId;
+  const chef = chefs.find((chef) => chef.chef_id == chefId);
+  res.json(chef);
+})
+
 app.get("/trending", (req, res) => {
   const treanding = recipes.filter((recipe) => recipe.is_treanding === true);
   res.json(treanding);
